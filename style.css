@@ -12,3 +12,16 @@ li{ text-align: center;font-size: 30px; color: #582770
 .cabeçalho {
   width: 40%
 }
+nav li{
+  display: inline;
+  padding: 5%;
+  margin-left: 2%
+}
+nav{
+  position: relative;
+  bottom: 110px;
+  left: 400px
+}
+ul{
+  display: block ruby;
+}
